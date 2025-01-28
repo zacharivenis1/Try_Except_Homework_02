@@ -34,4 +34,4 @@ try:
     print("Your net salary based on your inputs is: ", round(final_net_salary, 2))
 
 except ValueError:
-    print("The input is invalid, please ensure that al
+    print("The input is invalid, please ensure that all inputs are integer values")
